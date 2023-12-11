@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Hedone Access- Dubai",
+    "image": "https://imgur.com/UgyIstT.png",
+    "description": "A private concierge company situated in Dubai, offering an exclusive club experience for individuals seeking the epitome of luxury.",
+    "tags": ["react", "node", "mongodb", "tailwind"],
+    "source_code": "https://github.com/zaindgr8/Hedone_Access/tree/main/Hedone_Access_Main_1/business",
+    "demo": "https://hedoneaccess.com/"
+  },
+  {
+    "id": 2,
+    "name": "Cleaning in Click - Netherlands",
+    "image": "https://imgur.com/A6tJtQF.png",
+    "description": "A premium cleaning startup in the Netherlands, Amsterdam, delivering top-notch services right to your doorstep.",
+    "tags": [""],
+    "demo": "https://cleaninginaclick.nl/"
+  },
+  {
+    "id": 3,
+    "name": "Wissam Serdoun- French Perfumes",
+    "image": "https://imgur.com/YnQMEoU.png",
+    "description": "A luxury perfume brand rooted in Dubai, crafting French fragrances that transcend borders, catering to both Gulf and European markets with a collection of unisex scents.",
+    "tags": ["next", "node", "mongodb", "redux", "tailwind", "stripe & sanity"],
+    "source_code": "https://github.com/zaindgr8/wissam_10thDec",
+    "demo": "https://www.wissambywissam.com/"
+  },
+  {
+    "id": 4,
+    "name": "We International Digital Marketing",
+    "image": "https://imgur.com/Xs5kPBY.png",
+    "description": "A digital marketing firm specializing in delivering cutting-edge IT solutions to clients across Europe and the Middle East.",
+    "tags": ["next", "css-modules", "tailwind", "node", "mongodb"],
+    "source_code": "https://github.com/zaindgr8",
+    "demo": "https://www.weintdigitalmarketing.com/"
+  }
+]
